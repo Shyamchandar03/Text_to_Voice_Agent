@@ -4,4 +4,3 @@ torchaudio
 transformers
 soundfile
 kokoro
-base64
