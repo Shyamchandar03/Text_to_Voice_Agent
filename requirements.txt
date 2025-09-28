@@ -1,6 +1,8 @@
-streamlit
-torch
-torchaudio
-transformers
-soundfile
-kokoro
+streamlit==1.32.2
+torch==2.2.2
+torchaudio==2.2.2
+transformers==4.39.3
+soundfile==0.12.1
+kokoro==0.7.16
+spacy==3.8.2
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
